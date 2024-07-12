@@ -3,7 +3,6 @@
 
 Escuela Universidad Tecnológica Metropolitana
 
-Practica tercer-parcial
 
 Asignatura: Desarrollo de Aplicaciones Web
 
